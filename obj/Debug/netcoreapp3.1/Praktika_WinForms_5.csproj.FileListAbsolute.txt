@@ -1,0 +1,16 @@
+C:\Users\ThinkBook\source\repos\Praktika_WinForms_5\bin\Debug\netcoreapp3.1\Praktika_WinForms_5.exe
+C:\Users\ThinkBook\source\repos\Praktika_WinForms_5\bin\Debug\netcoreapp3.1\Praktika_WinForms_5.deps.json
+C:\Users\ThinkBook\source\repos\Praktika_WinForms_5\bin\Debug\netcoreapp3.1\Praktika_WinForms_5.runtimeconfig.json
+C:\Users\ThinkBook\source\repos\Praktika_WinForms_5\bin\Debug\netcoreapp3.1\Praktika_WinForms_5.runtimeconfig.dev.json
+C:\Users\ThinkBook\source\repos\Praktika_WinForms_5\bin\Debug\netcoreapp3.1\Praktika_WinForms_5.dll
+C:\Users\ThinkBook\source\repos\Praktika_WinForms_5\bin\Debug\netcoreapp3.1\Praktika_WinForms_5.pdb
+C:\Users\ThinkBook\source\repos\Praktika_WinForms_5\obj\Debug\netcoreapp3.1\Praktika_WinForms_5.csprojAssemblyReference.cache
+C:\Users\ThinkBook\source\repos\Praktika_WinForms_5\obj\Debug\netcoreapp3.1\Praktika_WinForms_5.Form1.resources
+C:\Users\ThinkBook\source\repos\Praktika_WinForms_5\obj\Debug\netcoreapp3.1\Praktika_WinForms_5.csproj.GenerateResource.cache
+C:\Users\ThinkBook\source\repos\Praktika_WinForms_5\obj\Debug\netcoreapp3.1\Praktika_WinForms_5.AssemblyInfoInputs.cache
+C:\Users\ThinkBook\source\repos\Praktika_WinForms_5\obj\Debug\netcoreapp3.1\Praktika_WinForms_5.AssemblyInfo.cs
+C:\Users\ThinkBook\source\repos\Praktika_WinForms_5\obj\Debug\netcoreapp3.1\Praktika_WinForms_5.csproj.CoreCompileInputs.cache
+C:\Users\ThinkBook\source\repos\Praktika_WinForms_5\obj\Debug\netcoreapp3.1\Praktika_WinForms_5.dll
+C:\Users\ThinkBook\source\repos\Praktika_WinForms_5\obj\Debug\netcoreapp3.1\Praktika_WinForms_5.pdb
+C:\Users\ThinkBook\source\repos\Praktika_WinForms_5\obj\Debug\netcoreapp3.1\Praktika_WinForms_5.genruntimeconfig.cache
+C:\Users\ThinkBook\source\repos\Praktika_WinForms_5\obj\Debug\netcoreapp3.1\Praktika_WinForms_5.Properties.Resources.resources
